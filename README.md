@@ -12,7 +12,7 @@
   로드킬은 연간 약 2000~3000건 정도가 일어납니다. 이는 동물들에게도 매우 안타까운 일이지만, 또한 2차 피해를 불러올 수 있다는 점에서 매우 위험합니다. 갑작스럽게 등장하는 동물들을 피하려다가 끔찍한 사고를 당하는 경우들이 종종 발생합니다. 한순간에 일어나는 일이기 때문에 충분히 사고를 하고 대처를 할 여유가 없이 그저 본능적으로 핸들을 돌리기 때문에 일어나는 안타까운 일입니다. 큰 사고로 이어질 횟수가 무려 약 2500건 이라는 것은 매우 위험한 수치입니다.    
   하지만 동물들이 도로로 뛰어들지 않게 하기 위한 대처는 생각보다 쉽지 않습니다. 도로 개발 등으로 인해 보금자리와 식량을 잃은 동물들은 도로로 내려오게 되며, 모든 도로에 동물 접근 방지 펜스를 설치하는 것도 어렵습니다. 따라서 이에 대한 예방책이 반드시 필요합니다.    
   <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/news1.png" width="600" height="350"></p>        
-  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/news2.png" width="650" height="400"></p>
+  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/news2.png" width="500" height="350"></p>
   * 관련링크
 
   [경향뉴스](http://www.gnnews.co.kr/news/articleView.html?idxno=334036 , "GNN link")     
@@ -21,7 +21,7 @@
   
   
 ## GOAL
-  <img src="https://github.com/2020Capston6/Capston/blob/master/img/kill_graph.png" width="300" height="300">    
+  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/kill_graph.png" width="400" height="300"></p>    
   이렇게 로드킬을 막고자 저희는 로드킬 방지 알고리즘을 제안합니다.    
   하지만 저희 자동차는 만능이 아님니다. 저희 자동차는 모든 센서를 다 부착해서 정확도를 올릴 수는 없습니다.    
   따라서 저희는 소프트웨어의 힘을 빌려 이를 극복하고자 합니다.       
