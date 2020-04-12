@@ -11,8 +11,8 @@
   교통사고에서 가장 위험한 사고들은 대부분 고속도로에서 일어납니다. 차들이 매우 빠른 상태로 달리기 때문에 사고가 나면 그 규모가 크며, 빠르게 달리던 다른 차들과의 2차, 3차 사고로 인해 그 위험성이 더 커지게 됩니다. 졸음운전이나 난폭운전 등 운전자의 문제들도 있지만, 우리가 어찌할 수 없는 부분도 있습니다. 바로 로드킬입니다.    
   로드킬은 연간 약 2000~3000건 정도가 일어납니다. 이는 동물들에게도 매우 안타까운 일이지만, 또한 2차 피해를 불러올 수 있다는 점에서 매우 위험합니다. 갑작스럽게 등장하는 동물들을 피하려다가 끔찍한 사고를 당하는 경우들이 종종 발생합니다. 한순간에 일어나는 일이기 때문에 충분히 사고를 하고 대처를 할 여유가 없이 그저 본능적으로 핸들을 돌리기 때문에 일어나는 안타까운 일입니다. 큰 사고로 이어질 횟수가 무려 약 2500건 이라는 것은 매우 위험한 수치입니다.    
   하지만 동물들이 도로로 뛰어들지 않게 하기 위한 대처는 생각보다 쉽지 않습니다. 도로 개발 등으로 인해 보금자리와 식량을 잃은 동물들은 도로로 내려오게 되며, 모든 도로에 동물 접근 방지 펜스를 설치하는 것도 어렵습니다. 따라서 이에 대한 예방책이 반드시 필요합니다.    
-  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/news1.png" width="700" height="400"></p>        
-  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/news2.png" width="700" height="400"></p>
+  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/news1.png" width="600" height="350"></p>        
+  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/news2.png" width="650" height="400"></p>
   * 관련링크
 
   [경향뉴스](http://www.gnnews.co.kr/news/articleView.html?idxno=334036 , "GNN link")     
