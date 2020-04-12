@@ -69,3 +69,4 @@
   * 5월 : 도로주행 인공지능 알고리즘 설계
   * 6월 : UI설계
   
+## github-slack connection test
