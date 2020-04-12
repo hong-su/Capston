@@ -35,7 +35,11 @@
   팀구성원 : 송민국 장승민 변홍수    
   <img src="https://github.com/2020Capston6/Capston/blob/master/img/1.jpeg" width="150" height="150">
   <img src="https://github.com/2020Capston6/Capston/blob/master/img/2.jpeg" width="150" height="150">
-  <img src="https://github.com/2020Capston6/Capston/blob/master/img/3.jpeg" width="150" height="150">
+  <img src="https://github.com/2020Capston6/Capston/blob/master/img/3.jpeg" width="150" height="150">    
+  ### 역할
+    송민국 : 센서 연동
+    장승민 : 서버 구축
+    변홍수 : 도로주행 알고리즘 설계
 
 
 ## 개발환경
