@@ -1,7 +1,7 @@
 ## 캡스톤 디자인 프로젝트 
 
-  공식 프로젝트 명 : ooo한 oooo  서비스    
-  팀명 :     
+  공식 프로젝트 명 : 스마트한 자율주행 서비스    
+  팀명 :  알아서 잘하자    
   제품명 : 다 비켜 너 빼고    
 
   
@@ -25,10 +25,10 @@
   대략 이런 정도 느낌을 주면 됩니다. [->링크보기](https://www.google.com/search?q=%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8+%EC%84%9C%EB%B2%84+%EC%8B%9C%EC%8A%A4%ED%85%9C+%EA%B5%AC%EC%84%B1%EB%8F%84+%EA%B7%B8%EB%A6%AC%EA%B8%B0&tbm=isch&ved=2ahUKEwjM64WJptjoAhVWyosBHeFSC3QQ2-cCegQIABAA&oq=%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8+%EC%84%9C%EB%B2%84+%EC%8B%9C%EC%8A%A4%ED%85%9C+%EA%B5%AC%EC%84%B1%EB%8F%84+%EA%B7%B8%EB%A6%AC%EA%B8%B0&gs_lcp=CgNpbWcQA1CgpAFY1tIBYJDUAWgIcAB4BoABcogBuB6SAQUxMC4yOJgBAKABAaoBC2d3cy13aXotaW1n&sclient=img&ei=_HuNXsz9HdaUr7wP4aWtoAc&bih=1098&biw=1214#imgrc=g0kmuPL1x7CRtM)
  
   
-## 기대성과
+## Expected Achievement
   
-  기대성과는 쓸만할것 같다.  사회적 취약자들을 위한 무엇으로서 가치가 있을 것 같다. 돈벌 수 있을것 같다등, 
-  누가 이걸가지고 어떤 득을 볼지 최대한 상상해서 잘 씁니다.
+  최소한의 센서로 부터 얻은 정보를 인공지능 알고리즘과 접목시켜 한정적 자원을 소프트웨어의 힘으로 극복해 보고자 한다.
+  한정적인 하드웨어를 사용하는 소형 디바이스의 자율 주행에 도움을 줄수 있는 솔루션을 제공한다.
   
 ## Teams
   
@@ -42,13 +42,18 @@
     변홍수 : 도로주행 알고리즘 설계
 
 
-## 개발환경
+## Environment
 
-  github, slack 외 사용하는 도구들을 설명합니다.
-  github 중심의 pull request 방식으로 agile 개발한다는 내용이 포함되어야 합니다.
-  그리고, pull request history 는 점수산정의 한 요소가 됩니다.
+  github, slack , visual studio code 
+  github 중심의 pull request 방식으로 agile 개발한다
+    ### 주 계발 방법으로는 XP(eXtreme Programming)을 이용한다.
+    * 짧고 반복적인 개발 주기, 단순한 설계를 지향한다.
+    * 릴리즈의 기간을 짧게 반복하면서 요구사항을 충분히 반영한다.
+    * 핵심가치 : 의사소통 , 단순성 ,용기 ,존중 ,피드백
   
  
 ## MileStones 
-  * 4~5개 항목으로 날자와 마일스톤 정리해 주세요.  하드웨어 작동테스트 라든지 등 항목.  demo day는 (잠정) 6월8일입니다 
+  * 4월 : 센서 연동 확인 
+  * 5월 : 도로주행 인공지능 알고리즘 설계
+  * 6월 : UI설계
   
