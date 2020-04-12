@@ -44,12 +44,12 @@
 
 ## Environment
 
-  github, slack , visual studio code 
+  github, slack , visual studio code    
   github 중심의 pull request 방식으로 agile 개발한다
   ### 주 계발 방법으로는 XP(eXtreme Programming)을 이용한다.
-    * 짧고 반복적인 개발 주기, 단순한 설계를 지향한다.
-    * 릴리즈의 기간을 짧게 반복하면서 요구사항을 충분히 반영한다.
-    * 핵심가치 : 의사소통 , 단순성 ,용기 ,존중 ,피드백
+   * 짧고 반복적인 개발 주기, 단순한 설계를 지향한다.
+   * 릴리즈의 기간을 짧게 반복하면서 요구사항을 충분히 반영한다.
+   * 핵심가치 : 의사소통 , 단순성 ,용기 ,존중 ,피드백
   
  
 ## MileStones 
