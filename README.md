@@ -10,7 +10,7 @@
   <img src="https://github.com/2020Capston6/Capston/blob/master/img/news2.png" width="300" height="300">
   * 관련링크
 
-  [경향뉴스](http://www.gnnews.co.kr/news/articleView.html?idxno=334036,"GNN link")    
+  [경향뉴스](http://www.gnnews.co.kr/news/articleView.html?idxno=334036 , "GNN link")     
   [YTN](https://www.yna.co.kr/view/AKR20180918100200062 , "YTN link")
 
   
