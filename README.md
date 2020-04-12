@@ -34,7 +34,7 @@
   
 ## Detail
   
-  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/main.JPG" width="400" height="300"></p>
+  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/main.JPG" width="700" height="400"></p>
  
   
 ## Expected Achievement
