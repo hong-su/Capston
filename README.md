@@ -6,11 +6,17 @@
 
   
 ## What's Problem? 
+  <img src="https://github.com/2020Capston6/Capston/blob/master/img/news1.png" width="300" height="300">
+  <img src="https://github.com/2020Capston6/Capston/blob/master/img/news2.png" width="300" height="300">
+  * 관련링크
+
+  [경향뉴스](http://www.gnnews.co.kr/news/articleView.html?idxno=334036,"GNN link")
+  [YTN](https://www.yna.co.kr/view/AKR20180918100200062 , "YTN link")
+
   
-  작은 소형 무인 자동차를 만들고자 한다. 
   
 ## GOAL
-  
+  <img src="https://github.com/2020Capston6/Capston/blob/master/img/kill_graph.png" width="300" height="300">
   그래서, 어떤 기술을 적용해서 어떤 방식으로 풀어내겠다는 것인지
   역시 엔지니어링 센스가 있는 사람이 이해할 수 있는 수준에서
   기술합니다.
@@ -47,9 +53,9 @@
   github, slack , visual studio code    
   github 중심의 pull request 방식으로 agile 개발한다
   ### 주 계발 방법으로는 XP(eXtreme Programming)을 이용한다.
-   * 짧고 반복적인 개발 주기, 단순한 설계를 지향한다.
-   * 릴리즈의 기간을 짧게 반복하면서 요구사항을 충분히 반영한다.
-   * 핵심가치 : 의사소통 , 단순성 ,용기 ,존중 ,피드백
+    * 짧고 반복적인 개발 주기, 단순한 설계를 지향한다.
+    * 릴리즈의 기간을 짧게 반복하면서 요구사항을 충분히 반영한다.
+    * 핵심가치 : 의사소통 , 단순성 ,용기 ,존중 ,피드백
   
  
 ## MileStones 
